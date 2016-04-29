@@ -1,6 +1,6 @@
 Name     : golang-googlecode-go-crypto 
 Version  : 0 
-Release  : 3
+Release  : 4
 URL      : https://github.com/golang/crypto/archive/aedad9a179ec1ea11b7064c57cbc6dc30d7724ec.tar.gz
 Source0  : https://github.com/golang/crypto/archive/aedad9a179ec1ea11b7064c57cbc6dc30d7724ec.tar.gz
 Summary  : No detailed summary available
